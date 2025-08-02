@@ -19,9 +19,9 @@
     "name" : "AlphaCoder",
     "package_name" : "AlphaCoder",
     "category" : [null],
-    "url" : "https://github.com/Xi4u7/A-Rat.git",
+    "url" : "https://github.com/TheDarkBoyUnkown/AlphaCoder.git",
     "package_manager" : "git",
-    "dependency" : ["python","git"]
+    "dependency" : ["python","git","colorama"]
   },
   "ADB-Toolkit" : { 
     "name" : "ADB-Toolkit",

@@ -43,7 +43,7 @@ class logo:
   def ins_tnc(self):
     self.tool_header()
     print (f'''
-{yellow}  [ + ] {green}Use It At Your Own Risk.
+{yellow}  [ + ] {green}Use It At Your Own Responsibility.
 {yellow}  [ + ] {green}No Warranty.
 {yellow}  [ + ] {green}Use it legal purpose only.
 {yellow}  [ + ] {green}We are not responsible for your actions.
@@ -179,3 +179,4 @@ class logo:
 {yellow}         [ + ] {green}Thanks for using Tool-X
 {yellow}         [ + ] {green}Good Bye.....! ){nc}''')
     self.tool_footer()
+
